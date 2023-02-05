@@ -1,0 +1,1 @@
+# parsi-contributions-google-translate
